@@ -11,15 +11,7 @@ export function Exercicio2({ classeNav, classeUl}) {
         {
           name: "All Posts",
           url: "/allposts"
-        },
-        {
-          name: "My Profile",
-          url: "/myprofile"
-        },
-        {
-          name: "Logout",
-          url: "/logout"
-        },
+        }
       ]
     return(
         <>
