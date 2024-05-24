@@ -1,0 +1,46 @@
+{
+    "perfils": [
+      {
+        "id": "1",
+        "email": "john@example.com",
+        "name": "John Doe",
+        "password": "john123",
+        "token": "A1b2C3d4E5"
+      },
+      {
+        "id": "2",
+        "email": "alice@example.com",
+        "name": "Alice Smith",
+        "password": "alice456",
+        "token": "F6g7H8i9J0"
+      },
+      {
+        "id": "3",
+        "email": "bob@example.com",
+        "name": "Bob Johnson",
+        "password": "bob789",
+        "token": "K1l2M3n4O5"
+      },
+      {
+        "id": "4",
+        "email": "emma@example.com",
+        "name": "Emma Brown",
+        "password": "emma012",
+        "token": "P6Q7r8S9t0"
+      },
+      {
+        "id": "5",
+        "email": "michael@example.com",
+        "name": "Michael Davis",
+        "password": "michael345",
+        "token": "U1V2w3X4Y5"
+      },
+      {
+        "id": "6",
+        "email": "sophia@example.com",
+        "name": "Sophia Wilson",
+        "password": "sophia678",
+        "token": "Z6a7B8c9D0"
+      }
+    ]
+  }

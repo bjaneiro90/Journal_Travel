@@ -1,7 +1,7 @@
-export function Exercicio4({url, name}) {
+export function Exercicio4({url, name, clase}) {
     return (
        <>
-           <li><a href={url}>{name}</a></li>
+           <li className={clase}><a href={url}>{name}</a></li>
        </>
     )
 }

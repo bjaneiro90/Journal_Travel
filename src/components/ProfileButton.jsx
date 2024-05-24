@@ -1,4 +1,4 @@
-import { Exercicio2 } from "./Exercicio2";
+import { NavMenu } from "./NavMenu";
 import goku from "../imagens/songoku.png"
 
 export function ProfileButton() {
@@ -6,7 +6,7 @@ export function ProfileButton() {
     return (
         <>
             <div className="goku-div">
-            <Exercicio2 classeNav={"classeNav"} classeUl={"classeUl"} />
+            <NavMenu classeNav={"classeNav"} classeUl={"classeUl"} />
             <button className="goku-button">
                 <img className="goku-picture" src={goku} alt="" />
             </button>

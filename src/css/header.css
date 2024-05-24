@@ -15,6 +15,35 @@
     cursor: pointer;
 }
 
+
+.ham-menu {
+    margin-top: 2rem;
+    position: fixed;
+    top: 3rem;
+    background-color: goldenrod;
+    left: -2.3rem;
+    width: 8rem;
+    height: 6rem;
+    border: 1px solid black;
+    padding: 10px;
+    border-bottom-right-radius: 1rem;
+    box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.5);
+    border-top:none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.ham-list {
+    list-style: none;
+}
+
+.ham-li {
+    border-top: 1px solid black;
+    padding-top: 1rem;
+    padding-bottom: 1rem
+}
+
 .goku-div,
 .div-ham {
     display: flex;
