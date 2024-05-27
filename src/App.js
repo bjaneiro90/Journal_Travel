@@ -6,14 +6,18 @@ import { LandingPage } from './pages/LandingPage';
 import { Header } from './components/Header';
 import { Counter } from "./components/hooks/Counter";
 import { Login } from "./pages/LogIn";
+import { HookEffect } from "./components/hooks/HookEffect";
+import { RegisterPage } from "./pages/RegisterPage";
 
 function App() {
   return (
     <>
     
     <Header/>
+    <RegisterPage/>
    {/* <LandingPage/> */}
-   <Login/>
+   {/* <Login/> */}
+   {/* <HookEffect/> */}
 
 
     </>

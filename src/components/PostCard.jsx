@@ -8,7 +8,7 @@ export function PostCard({post}) {
     const [likes, setLikes] = useState(post.likes)
 
     let isNotLiked = likes === post.likes
-    console.log(isNotLiked)
+ 
 
     const handleLike = () => {
 
